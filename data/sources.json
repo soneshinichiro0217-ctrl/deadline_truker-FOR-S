@@ -1,0 +1,65 @@
+{
+  "description": "28卒向け公開公式ページ。robots.txtを尊重し、候補は要確認として表示。",
+  "sources": [
+    {
+      "company": "NTTデータ",
+      "industry": "SIer",
+      "url": "https://nttdata-recruit.com/event/internship.html"
+    },
+    {
+      "company": "野村総合研究所（NRI）",
+      "industry": "SIer",
+      "url": "https://www.nri.com/jp/career/"
+    },
+    {
+      "company": "SCSK",
+      "industry": "SIer",
+      "url": "https://www.scsk.jp/recruit/saiyo/index.html"
+    },
+    {
+      "company": "アビームコンサルティング",
+      "industry": "ITコンサル",
+      "url": "https://www.abeam.com/jp/ja/recruit/newgrad/course2028/strategy-cs/"
+    },
+    {
+      "company": "アビームコンサルティング",
+      "industry": "ITコンサル",
+      "url": "https://www.abeam.com/jp/ja/recruit/newgrad/course2028/solution-cs/"
+    },
+    {
+      "company": "富士通",
+      "industry": "メーカーIT",
+      "url": "https://fujitsu.recruiting.jp.fujitsu.com/event/fgc/"
+    },
+    {
+      "company": "電通総研テクノロジー",
+      "industry": "SIer",
+      "url": "https://www.t.dentsusoken.com/recruit/graduates/application/"
+    },
+    {
+      "company": "CTC（伊藤忠テクノソリューションズ）",
+      "industry": "SIer",
+      "url": "https://www.ctc-g.co.jp/recruit/newgrads/"
+    },
+    {
+      "company": "BIPROGY",
+      "industry": "SIer",
+      "url": "https://www.biprogy.com/recruit/recruiting/"
+    },
+    {
+      "company": "KDDI",
+      "industry": "通信",
+      "url": "https://career.kddi.com/freshers/"
+    },
+    {
+      "company": "日鉄ソリューションズ",
+      "industry": "SIer",
+      "url": "https://www.nssol.nipponsteel.com/recruiting/job/requirement/"
+    },
+    {
+      "company": "伊藤忠テクノソリューションズ（CTC）",
+      "industry": "SIer",
+      "url": "https://www.ctc-g.co.jp/recruit/newgrads/entry/"
+    }
+  ]
+}
