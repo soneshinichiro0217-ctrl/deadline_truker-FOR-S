@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-22",
+  "disclaimer": "OpenWorkなど公開比較ページによるスナップショット。新卒給与ではなく、転勤・勤務地・リモートは未確認。",
+  "companies": [
+    {
+      "name": "NTTデータ",
+      "aliases": [
+        "NTTデータ",
+        "株式会社NTTデータ"
+      ],
+      "industry": "SIer",
+      "salary": 766,
+      "rating": 3.8,
+      "overtime": 31.6,
+      "ratingUrl": "https://www.openwork.jp/a0910000000Frwt/compa/a0CIh000002pypG/",
+      "priority": 2
+    },
+    {
+      "name": "野村総合研究所（NRI）",
+      "aliases": [
+        "野村総合研究所",
+        "野村総合研究所（NRI）",
+        "NRI"
+      ],
+      "industry": "SIer",
+      "salary": 988,
+      "rating": 4.5,
+      "overtime": 45.1,
+      "ratingUrl": "https://www.openwork.jp/a0910000000Fr0Q/compa/a0910000000Fs0D/",
+      "priority": 2
+    },
+    {
+      "name": "日鉄ソリューションズ",
+      "aliases": [
+        "日鉄ソリューションズ"
+      ],
+      "industry": "SIer",
+      "salary": 732,
+      "rating": 4.2,
+      "overtime": 30,
+      "ratingUrl": "https://www.openwork.jp/a0C30000005iuVH/compa/a0910000000FqjM/",
+      "priority": 2
+    },
+    {
+      "name": "電通総研",
+      "aliases": [
+        "電通総研"
+      ],
+      "industry": "SIer",
+      "salary": 913,
+      "rating": 4.7,
+      "overtime": 32.9,
+      "ratingUrl": "https://www.openwork.jp/a0910000000GVZZ/compa/a0C3000000E7UyE/",
+      "priority": 2
+    },
+    {
+      "name": "BIPROGY",
+      "aliases": [
+        "BIPROGY"
+      ],
+      "industry": "SIer",
+      "salary": 663,
+      "rating": 3.6,
+      "overtime": 20.5,
+      "ratingUrl": "https://www.openwork.jp/a0910000000FrzR/compa/a0910000000FrhM/",
+      "priority": 2
+    },
+    {
+      "name": "TIS",
+      "aliases": [
+        "TIS",
+        "TIS株式会社"
+      ],
+      "industry": "SIer",
+      "salary": 600,
+      "rating": 3.1,
+      "overtime": 27.3,
+      "ratingUrl": "https://www.openwork.jp/a0910000000Fs09/compa/a0910000000FqxI/",
+      "priority": 2
+    },
+    {
+      "name": "SCSK",
+      "aliases": [
+        "SCSK",
+        "SCSK株式会社"
+      ],
+      "industry": "SIer",
+      "salary": 607,
+      "rating": 3,
+      "overtime": 22.6,
+      "ratingUrl": "https://www.openwork.jp/a0910000000Frzk/compa/a0910000000G1eV/",
+      "priority": 2,
+      "caveat": "別時点の比較では待遇2.9の表示もあり。3.0境界付近なので要再確認。"
+    },
+    {
+      "name": "日立ソリューションズ",
+      "aliases": [
+        "日立ソリューションズ"
+      ],
+      "industry": "SIer",
+      "salary": 619,
+      "rating": 3.8,
+      "overtime": 24.2,
+      "ratingUrl": "https://www.openwork.jp/a0910000000FrzR/compa/a0910000000FrhM/",
+      "priority": 2
+    },
+    {
+      "name": "NTTデータ先端技術",
+      "aliases": [
+        "NTTデータ先端技術"
+      ],
+      "industry": "SIer",
+      "salary": 645,
+      "rating": 3.8,
+      "overtime": 24.7,
+      "ratingUrl": "https://www.openwork.jp/a0910000000G1Mn/compa/a0910000002Wx5O/",
+      "priority": 1
+    },
+    {
+      "name": "富士通",
+      "aliases": [
+        "富士通",
+        "富士通株式会社",
+        "富士通グループ"
+      ],
+      "industry": "メーカーIT",
+      "salary": 702,
+      "rating": 3.5,
+      "overtime": 29,
+      "ratingUrl": "https://www.openwork.jp/a0C30000003CO9w/compa/a0910000000FrPl/",
+      "priority": 2,
+      "caveat": "グループ会社の値ではなく富士通本体の社員口コミ値。"
+    },
+    {
+      "name": "富士通Japan",
+      "aliases": [
+        "富士通Japan"
+      ],
+      "industry": "SIer",
+      "salary": 652,
+      "rating": 3.6,
+      "overtime": 29.7,
+      "ratingUrl": "https://www.openwork.jp/a0C1000000IJJ2v/compa/a0C10000013FaCx/",
+      "priority": 1
+    },
+    {
+      "name": "NEC",
+      "aliases": [
+        "NEC",
+        "日本電気（NEC）",
+        "日本電気",
+        "日本電気株式会社"
+      ],
+      "industry": "メーカーIT",
+      "salary": 718,
+      "rating": 3.3,
+      "overtime": 29.2,
+      "ratingUrl": "https://www.openwork.jp/a0910000000FrPk/compa/a0C1000001Fywvd/",
+      "priority": 2
+    },
+    {
+      "name": "Works Human Intelligence",
+      "aliases": [
+        "Works Human Intelligence"
+      ],
+      "industry": "Web・SaaS",
+      "salary": 634,
+      "rating": 3.1,
+      "overtime": 31.4,
+      "ratingUrl": "https://www.openwork.jp/a0C1000001NlLth/compa/a0C1000000IdRaj/",
+      "priority": 1
+    },
+    {
+      "name": "電通デジタル",
+      "aliases": [
+        "電通デジタル"
+      ],
+      "industry": "ITコンサル",
+      "salary": 662,
+      "rating": 3.4,
+      "overtime": 38.3,
+      "ratingUrl": "https://www.openwork.jp/a0C1000000x9PF9/compa/a0C1000000WqVM4/",
+      "priority": 1
+    },
+    {
+      "name": "NTTデータ関西",
+      "aliases": [
+        "NTTデータ関西"
+      ],
+      "industry": "SIer",
+      "salary": 566,
+      "rating": 3,
+      "overtime": 23,
+      "ratingUrl": "https://www.openwork.jp/a0C1000000x9PF9/compa/a0C1000000WqVM4/",
+      "priority": 0,
+      "caveat": "平均年収600万円未満。"
+    },
+    {
+      "name": "CTC（伊藤忠テクノソリューションズ）",
+      "aliases": [
+        "伊藤忠テクノソリューションズ（CTC）",
+        "伊藤忠テクノソリューションズ",
+        "CTC"
+      ],
+      "industry": "SIer",
+      "salary": null,
+      "rating": null,
+      "overtime": 29.7,
+      "ratingUrl": "https://www.openwork.jp/one_answer.php?qco=6&vid=a0A2x00000HisOR",
+      "priority": 2,
+      "caveat": "平均年収1,090万円はCTC公式（2024年度）。OpenWork 2026待遇満足度ランキング10位だが数値の集計定義が異なるため比較スコアは空欄。",
+      "officialSalary": 1090,
+      "officialSalaryUrl": "https://www.ctc-g.co.jp/recruit/newgrads/salary-model/"
+    }
+  ]
+}
