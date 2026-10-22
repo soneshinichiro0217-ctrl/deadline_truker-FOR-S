@@ -1,7 +1,65 @@
 {
   "schemaVersion": 1,
-  "generatedAt": null,
-  "status": "not_activated",
-  "checkedSources": [],
+  "generatedAt": "2026-10-22T22:31:06+09:00",
+  "status": "partial",
+  "checkedSources": [
+    {
+      "company": "NTTデータ",
+      "status": "ok",
+      "found": 0
+    },
+    {
+      "company": "野村総合研究所（NRI）",
+      "status": "ok",
+      "found": 0
+    },
+    {
+      "company": "SCSK",
+      "status": "ok",
+      "found": 0
+    },
+    {
+      "company": "アビームコンサルティング",
+      "status": "failed"
+    },
+    {
+      "company": "アビームコンサルティング",
+      "status": "failed"
+    },
+    {
+      "company": "富士通",
+      "status": "ok",
+      "found": 0
+    },
+    {
+      "company": "電通総研テクノロジー",
+      "status": "ok",
+      "found": 0
+    },
+    {
+      "company": "CTC（伊藤忠テクノソリューションズ）",
+      "status": "ok",
+      "found": 0
+    },
+    {
+      "company": "BIPROGY",
+      "status": "ok",
+      "found": 0
+    },
+    {
+      "company": "KDDI",
+      "status": "ok",
+      "found": 0
+    },
+    {
+      "company": "日鉄ソリューションズ",
+      "status": "blocked_or_robots"
+    },
+    {
+      "company": "伊藤忠テクノソリューションズ（CTC）",
+      "status": "ok",
+      "found": 0
+    }
+  ],
   "items": []
 }
