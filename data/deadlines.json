@@ -1,12 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T10:17:55+09:00",
+  "generatedAt": "2026-11-15T22:03:48+09:00",
   "status": "partial",
   "checkedSources": [
     {
       "company": "NTTデータ",
-      "status": "ok",
-      "found": 0
+      "status": "blocked_or_robots"
     },
     {
       "company": "野村総合研究所（NRI）",
